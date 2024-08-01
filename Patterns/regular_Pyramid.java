@@ -1,4 +1,4 @@
-public class p7 {
+public class regular_Pyramid {
 
     public static void p7(int n) {
         for (int i = 0; i < n; i++) {

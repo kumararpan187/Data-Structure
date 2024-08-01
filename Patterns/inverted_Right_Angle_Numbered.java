@@ -1,17 +1,18 @@
-public class p6 {
+public class inverted_Right_Angle_Numbered {
     public static void p6(int n) {
         for (int i = 1; i <= n; i++) {
-            int num=1;
+            int num = 1;
             for (int j = n; j >= i; j--) {
                 System.out.print(num);
                 num++;
-                
+
             }
             System.out.println();
         }
 
     }
-public static void main(String[] args) {
-    p6(5);
-}
+
+    public static void main(String[] args) {
+        p6(5);
+    }
 }

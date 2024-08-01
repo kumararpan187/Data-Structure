@@ -1,5 +1,5 @@
 
-public class p1 {
+public class square {
 
     public static void square(int n) {
 

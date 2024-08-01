@@ -1,4 +1,4 @@
-public class p9 {
+public class regular_Mirrored_Pyramid {
     public static void mirrorpy(int n) {
         // for normal pyramid
         for (int i = 0; i < n; i++) {
